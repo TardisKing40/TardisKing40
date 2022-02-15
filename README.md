@@ -1,4 +1,6 @@
 # TardisKing40
 Working on a game called Alternate.
+Based in Node.JS
 
-You can contact me on discord at TardisKing40#0391
+
+![](https://discord.c99.nl/widget/theme-3/275015570284478466.png)
