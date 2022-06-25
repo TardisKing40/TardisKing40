@@ -7,6 +7,6 @@ Based in Node.JS
 -End my eternal suffering.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TardisKing40&show_icons=true&theme=dark)
 
 ![](https://discord.c99.nl/widget/theme-3/275015570284478466.png)
