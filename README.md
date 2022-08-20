@@ -1,9 +1,7 @@
 # TardisKing40
 [![Among US](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 
-Working on a game called Alternate.
-Based in Node.JS
-
+Knowledge is based in Node.JS
 -End my eternal suffering.
 
 
