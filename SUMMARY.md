@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📄 Introduction](README.md)
+* [📄 Landing Page](README.md)
 * [⏱ Timeline](timeline.md)
 
 ## 💻 Projects

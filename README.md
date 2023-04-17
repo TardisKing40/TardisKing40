@@ -1,6 +1,7 @@
-Knowledge is based in Node.JS
--End my eternal suffering.
+# 📄 Landing Page
 
-**As of 27/09/2022, all commits will be signed via my gpg key `0DC51D515DE00946AB5FEDDA0EF960BF1EC2C918`. You can download it [from here](https://keys.openpgp.org/vks/v1/by-fingerprint/0DC51D515DE00946AB5FEDDA0EF960BF1EC2C918)**
+**As of 27/09/2022, all commits will be signed via my gpg key F68E7C1B2F2CD31A62F87AD15DABEEF0701D1EDE .**&#x20;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TardisKing40&show_icons=true&theme=dark)
+**You can download it** [**from here**](https://keys.openpgp.org/vks/v1/by-fingerprint/F68E7C1B2F2CD31A62F87AD15DABEEF0701D1EDE)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TardisKing40\&show\_icons=true\&theme=dark)
