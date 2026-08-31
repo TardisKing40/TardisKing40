@@ -1,1 +1,1 @@
-![GitHub stats](https://ghrm.twodis.xyz/api?username=TardisKing40&show_icons=true&theme=dark&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TardisKing40&theme=transparent&hide_border=true&timezone=Australia%2FSydney&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
